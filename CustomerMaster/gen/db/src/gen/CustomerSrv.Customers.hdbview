@@ -1,5 +1,0 @@
-VIEW CustomerSrv_Customers AS SELECT
-  Customers_0.ID,
-  Customers_0.FirstName,
-  Customers_0.LastName
-FROM CustomerMaster_db_Customers AS Customers_0

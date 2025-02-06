@@ -1,5 +1,0 @@
-COLUMN TABLE CustomerMaster_db_Customers (
-  ID NVARCHAR(10),
-  FirstName NVARCHAR(50),
-  LastName NVARCHAR(50)
-)
